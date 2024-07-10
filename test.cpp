@@ -1,7 +1,16 @@
 #include<iostream>
+
+using lli = long long int;
 using namespace std;
-int main(){
-  cout << "Hello wolrd !" << endl;
-  cout << "Hello wolrd !" << endl;
-  cout << "Hello wolrd !" << endl;
+int decodePattern(string S, string P)
+{
+  // code here
+ 
+}
+
+int main()
+{
+  
+
+  return 0;
 }
