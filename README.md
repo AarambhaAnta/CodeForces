@@ -10,5 +10,6 @@ This is the solution to CodeForces problemset. The solutions might not be great 
 - open the folder according to the level you like
 
 - open any file you like 
-- click on the link in the first line of code to move to the question/problem on CodeForces
+- you can get the link to question below:
+ - [level-800](https://github.com/AarambhaAnta/level_800/questions.md)
 
